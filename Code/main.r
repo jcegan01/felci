@@ -5,6 +5,7 @@
 
 
 # set working directory
+wdir <- "C:/Users/xadmin/projects/felci/"
 setwd(paste0(wdir,"Code")) 
 
 #load shiny package after install

@@ -17,7 +17,7 @@ page7 <- fluidPage(
 	fluidRow(column(2,   
 		# Input: Simple integer interval ----
 			sliderInput("nsim", "Number of Simulations:",
-				min = 0, max = 10000,value = 1000))
+				min = 0, max = 10000,value = 10))
 	),
 
 	#breaks
