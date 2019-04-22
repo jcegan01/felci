@@ -14,11 +14,11 @@
 
 #set wd
 	if (!exists("resultsDir")){
-	 a <- "2018-05-16 14-51-22"
-	 b <- "2018-05-22 10-09-55"
-	 rundate <- b
-	 resultsDir <- paste0("C:/Users/xadmin/Documents/FELCI/Results/",rundate)
-	 saveDir <- paste0("C:/Users/xadmin/Documents/FELCI/Load_Save/",rundate)
+	 # a <- "2018-05-16 14-51-22"
+	 # b <- "2018-05-22 10-09-55"
+	 # rundate <- b
+	 # resultsDir <- paste0("C:/Users/xadmin/Documents/FELCI/Results/",rundate)
+	 # saveDir <- paste0("C:/Users/xadmin/Documents/FELCI/Load_Save/",rundate)
 	}
 	setwd(resultsDir)
 
