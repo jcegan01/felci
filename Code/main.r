@@ -36,6 +36,7 @@ source("voi_run.r")
 setwd(paste0(wdir,"Code"))
 source("voi_graph.r")
 
+
 ### end ###
-
-
+winDialog("ok", "Finished")  
+### end ###
