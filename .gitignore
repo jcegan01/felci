@@ -4,7 +4,11 @@
 .Ruserdata
 VoI_Input.csv
 
-#Ignore folders'
+#Ignore folders
 Results/*
 Load_Save/*
 USEtox/*
+
+#Ignore files
+*.csv
+*pdf
