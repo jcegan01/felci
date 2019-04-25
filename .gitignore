@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 VoI_Input.csv
+
+#Ignore folders'
+Results/*
+Load_Save/*
+USEtox/*
